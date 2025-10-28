@@ -1,0 +1,15 @@
+{
+  "banner": {
+    "initializing": "🚀 INITIALIZING MULTI-AGENT COLLABORATION NETWORK 🚀",
+    "ready": "🎯 Ready for intelligent task processing..."
+  },
+  "main": {
+    "input_prompt": "Enter your question (or type 'exit' to quit): ",
+    "classification_result": "Classification Result:",
+    "response_header": "\n====== Response ======",
+    "no_match_warning": "\n⚠️ No matching AIAgentDNS category found, switching to direct LLM response ...\n"
+  },
+  "error": {
+    "banner_not_found": "🤖 AIAgentDNS Network - Multi-Agent Collaboration System"
+  }
+}

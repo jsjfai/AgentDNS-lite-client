@@ -1,0 +1,15 @@
+{
+  "banner": {
+    "initializing": "🚀 正在初始化多智能体协作网络 🚀",
+    "ready": "🎯 准备就绪，等待智能任务处理..."
+  },
+  "main": {
+    "input_prompt": "请输入您的问题 (或者输入'exit'退出): ",
+    "classification_result": "分类结果:",
+    "response_header": "\n====== Response ======",
+    "no_match_warning": "\n⚠️ 没有找到匹配的 AIAgentDNS category_list，切换到大模型直接回答 ...\n"
+  },
+  "error": {
+    "banner_not_found": "🤖 AIAgentDNS网络 - 多智能体协作系统"
+  }
+}

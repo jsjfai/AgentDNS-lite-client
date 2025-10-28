@@ -1,0 +1,14 @@
+{
+  "deepseek": {
+    "api_key": "sk-XXXXXXXXXXXX",
+    "base_url": "https://api.deepseek.com/v1"
+  },
+  "agentdns": {
+    "sse_url": "https://aitest.jsjfsz.com:8300/agentdns/main/sse"
+  },
+  "category_rules": {
+    "weather_forecast": ["天气", "weather", "气温", "湿度", "风力"],
+    "maps_location": ["餐馆", "地图", "位置", "附近", "饭店", "地铁", "map"],
+    "video_search": ["视频", "b站", "抖音", "youtube", "video", "影片"]
+  }
+}
