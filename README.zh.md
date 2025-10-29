@@ -1,3 +1,7 @@
+<p align='center'>
+<img src='./resources/icon.png' width="150" height="150" alt="AgentDNS Icon" />
+</p>
+
 # agentdns-lite-client
 
 本工程是一个基于 **MCP 协议** 的智能体网络客户端，结合了 **gentDNS** 与 **大模型**，实现了以下功能：

@@ -1,3 +1,7 @@
+<p align='center'>
+<img src='./resources/icon.png' width="150" height="150" alt="AgentDNS Icon" />
+</p>
+
 # agentdns-lite-client
 
 # MCP-based Intelligent Agent Network Client
